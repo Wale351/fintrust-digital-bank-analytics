@@ -18,6 +18,7 @@ The project uses three main resources:
 - FinTrust Transaction Data
 - FinTrust Data Dictionary
 
+
 The customer dataset contains 1,500 customer records, while the transaction dataset contains 12,000 transaction records.
 
 The datasets are linked using `Customer_ID`.
@@ -67,6 +68,7 @@ Some of the KPIs planned for the project include:
 - Channel Adoption Share
 - Risk-Review Rate
 
+
 ## Proposed Dashboard
 
 The planned dashboard will provide a high-level view of:
@@ -79,7 +81,6 @@ The planned dashboard will provide a high-level view of:
 - customer segment performance
 - risk-review patterns
 
-A dashboard wireframe was created during Week 1. The full Power BI dashboard will be developed during the later stages of the project.
 
 ## Next Steps
 
@@ -91,7 +92,6 @@ In Week 2, I plan to:
 - investigate the Week 1 analytical questions
 - calculate and validate the proposed KPIs
 
-Later stages will focus on deeper analysis, Power BI dashboard development, validation, and final reporting.
 
 ## Tools
 
@@ -105,6 +105,14 @@ Later stages will focus on deeper analysis, Power BI dashboard development, vali
 
 All FinTrust data used in this project is synthetic and was created for educational purposes as part of the AnalystLab Africa Experience Lab Internship Programme so they are not real
 
+## Week 1 Deliverables
+
+-  [Week 1 Data Profiling Notebook](week1_data_profiling.ipynb)
+- [Week 1 Business & Data Intelligence Assessment](reports/FinTrust_Week1_Business_Data_Intelligence_Assessment.pdf)
+
+### Dashboard Wireframe
+
+![FinTrust Dashboard Wireframe](dashboard/fintrust_dashboard_wireframe.png)
 ## Author
 
 Adegbola Yusuf | 
