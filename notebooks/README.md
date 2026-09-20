@@ -16,4 +16,4 @@ It covers:
 
 You can view the notebook here:
 
-[View Week 1 Data Profiling Notebook](notebooks/week1_data_profiling.ipynb)
+[View Week 1 Data Profiling Notebook](week1_data_profiling.ipynb)
