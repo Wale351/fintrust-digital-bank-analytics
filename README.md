@@ -53,7 +53,6 @@ Some of the main observations from the profiling stage include:
 - the transaction data covers January to March 2026
 - Risk_Review_Flag represents transactions requiring review and should not be interpreted as confirmed fraud
 
-At this stage, the focus is mainly on understanding and profiling the data rather than drawing final business conclusions.
 
 ## Proposed KPIs
 
