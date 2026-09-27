@@ -112,6 +112,40 @@ All FinTrust data used in this project is synthetic and was created for educatio
 ### Dashboard Wireframe
 
 ![FinTrust Dashboard Wireframe](dashboard/fintrust_dashboard_wireframe.png)
+
+## Week 2: Analyse & Prepare
+
+Week 2 moved the project from planning into practical analysis.
+
+### Work Completed
+
+- Data quality assessment and cleaning in Excel
+- SQL analysis covering 8 business questions
+- Exploratory data analysis using Python, Pandas, NumPy, Matplotlib and Seaborn
+- Initial Power BI management dashboard
+- Business findings and testing documentation
+
+### Key Findings
+
+- Mobile App recorded the highest transaction activity with 5,102 transactions.
+- Everyday customers generated 5,644 transactions.
+- 90.47% of transactions were successful.
+- Transfers and card purchases were the most common transaction types.
+- 19.6% of transactions were flagged for risk review.
+
+> Risk_Review_Flag is a synthetic educational indicator and does not represent confirmed fraud.
+
+### Week 2 Deliverables
+
+- [Python EDA Notebook](notebooks/FinTrust_Week2_Data_Analysis.ipynb)
+- [SQL Analysis](sql/FinTrust_Week2_SQL_Analysis.sql)
+- [Week 2 Project Summary](reports/FinTrust_Week2_Project_Summary.pdf)
+- [Data Quality & Cleaning Workbook](excel/FinTrust_Week2_Data_Quality_Cleaning.xlsx)
+
+### Power BI Dashboard
+
+![FinTrust Week 2 Dashboard](dashboard/FinTrust_Week2_Dashboard.png)
+
 ## Author
 
 Adegbola Yusuf | 
